@@ -6,6 +6,7 @@
   "main": "index.js",
   "author": "Kevin Papst <support@kimai.cloud>",
   "license": "MIT",
+  "repository": "https://github.com/kimai-cloud/recipe-kimaicloud",
   "config": {
     "serviceURL": "https://{teamId}.kimai.cloud",
     "hasNotificationSound": false,
